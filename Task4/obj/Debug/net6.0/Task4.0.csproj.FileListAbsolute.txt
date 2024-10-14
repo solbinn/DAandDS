@@ -1,0 +1,15 @@
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.csproj.AssemblyReference.cache
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.AssemblyInfoInputs.cache
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.AssemblyInfo.cs
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.csproj.CoreCompileInputs.cache
+C:\Users\джелли\Desktop\КАиСД\Task4.0\bin\Debug\net6.0\Task4.0.exe
+C:\Users\джелли\Desktop\КАиСД\Task4.0\bin\Debug\net6.0\Task4.0.deps.json
+C:\Users\джелли\Desktop\КАиСД\Task4.0\bin\Debug\net6.0\Task4.0.runtimeconfig.json
+C:\Users\джелли\Desktop\КАиСД\Task4.0\bin\Debug\net6.0\Task4.0.dll
+C:\Users\джелли\Desktop\КАиСД\Task4.0\bin\Debug\net6.0\Task4.0.pdb
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.dll
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\refint\Task4.0.dll
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.pdb
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\Task4.0.genruntimeconfig.cache
+C:\Users\джелли\Desktop\КАиСД\Task4.0\obj\Debug\net6.0\ref\Task4.0.dll
