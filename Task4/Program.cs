@@ -259,13 +259,15 @@ namespace ArrayList
             return resultingArray;
         }
 
+        public override string ToString()
+        {
+            string s = "";
+            for (int i = 0; i < size; i++) s += elementData[i] + " ";
+            return s;
+        }
         public void Print()
         {
-            if (size != 0)
-            {
-                for (int i = 0; i < size; i++)
-                    Console.WriteLine(elementData[i]);
-            }
+            Console.WriteLine(this);
         }
     }
 
